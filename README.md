@@ -2,8 +2,8 @@
 
 This has some common language goals that I use on a day to day basis.
 
-* [ ] Read and write to files
-* [ ] JSON serialization / deserialization
+* [x] Read and write to files
+* [x] JSON serialization / deserialization
 * [ ] Binary serialization / deserialization
 * [ ] Connect to postgresql database and perform basic crud operations
 * [ ] Create a HTTP microservice for basic routing and middleware
